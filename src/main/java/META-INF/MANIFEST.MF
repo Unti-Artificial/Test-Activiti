@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Class-Path: guava-23.0.jar spring-beans-5.0.4.RELEASE.jar activiti-pro
+ cess-validation-6.0.0.jar activation-1.1.1.jar javax.annotation-api-1
+ .3.2.jar commons-email-1.4.jar spring-context-5.0.4.RELEASE.jar activ
+ iti-dmn-model-6.0.0.jar mybatis-3.4.2.jar spring-aop-5.0.4.RELEASE.ja
+ r activiti-bpmn-model-6.0.0.jar logback-classic-1.1.11.jar animal-sni
+ ffer-annotations-1.14.jar activiti-dmn-api-6.0.0.jar jsr305-1.3.9.jar
+  joda-time-2.9.9.jar log4j-to-slf4j-2.10.0.jar spring-boot-starter-lo
+ gging-2.0.0.RELEASE.jar logback-core-1.2.3.jar juel-impl-2.2.7.jar ac
+ tiviti-image-generator-6.0.0.jar spring-expression-5.0.4.RELEASE.jar 
+ activiti-form-model-6.0.0.jar jackson-annotations-2.9.0.jar jcl-over-
+ slf4j-1.7.25.jar spring-boot-autoconfigure-2.0.0.RELEASE.jar error_pr
+ one_annotations-2.0.18.jar activiti-form-api-6.0.0.jar activiti-bpmn-
+ converter-6.0.0.jar spring-jcl-5.0.4.RELEASE.jar javax.mail-1.6.1.jar
+  jul-to-slf4j-1.7.25.jar juel-api-2.2.7.jar snakeyaml-1.19.jar spring
+ -boot-starter-2.0.0.RELEASE.jar jackson-databind-2.9.4.jar juel-spi-2
+ .2.7.jar spring-core-5.0.4.RELEASE.jar slf4j-api-1.7.25.jar j2objc-an
+ notations-1.1.jar jackson-core-2.9.4.jar spring-boot-2.0.0.RELEASE.ja
+ r log4j-api-2.10.0.jar h2-1.3.176.jar activiti-engine-6.0.0.jar commo
+ ns-lang3-3.7.jar
+Main-Class: com.test.hellworld.DemoMain
+

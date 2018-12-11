@@ -1,0 +1,56 @@
+<component name="ArtifactManager">
+  <artifact name="activiti6helloworld:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/activiti6helloworld_jar</output-path>
+    <root id="root">
+      <element id="archive" name="activiti6helloworld.jar">
+        <element id="module-output" name="activiti6helloworld" />
+      </element>
+      <element id="library" level="project" name="Maven: com.google.guava:guava:23.0" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.0.4.RELEASE" />
+      <element id="library" level="project" name="Maven: org.activiti:activiti-process-validation:6.0.0" />
+      <element id="library" level="project" name="Maven: javax.activation:activation:1.1.1" />
+      <element id="library" level="project" name="Maven: javax.annotation:javax.annotation-api:1.3.2" />
+      <element id="library" level="project" name="Maven: org.apache.commons:commons-email:1.4" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-context:5.0.4.RELEASE" />
+      <element id="library" level="project" name="Maven: org.activiti:activiti-dmn-model:6.0.0" />
+      <element id="library" level="project" name="Maven: org.mybatis:mybatis:3.4.2" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.0.4.RELEASE" />
+      <element id="library" level="project" name="Maven: org.activiti:activiti-bpmn-model:6.0.0" />
+      <element id="library" level="project" name="Maven: ch.qos.logback:logback-classic:1.1.11" />
+      <element id="library" level="project" name="Maven: org.codehaus.mojo:animal-sniffer-annotations:1.14" />
+      <element id="library" level="project" name="Maven: org.activiti:activiti-dmn-api:6.0.0" />
+      <element id="library" level="project" name="Maven: com.google.code.findbugs:jsr305:1.3.9" />
+      <element id="library" level="project" name="Maven: joda-time:joda-time:2.9.9" />
+      <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-to-slf4j:2.10.0" />
+      <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-logging:2.0.0.RELEASE" />
+      <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.2.3" />
+      <element id="library" level="project" name="Maven: de.odysseus.juel:juel-impl:2.2.7" />
+      <element id="library" level="project" name="Maven: org.activiti:activiti-image-generator:6.0.0" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.0.4.RELEASE" />
+      <element id="library" level="project" name="Maven: org.activiti:activiti-form-model:6.0.0" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.0" />
+      <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.7.25" />
+      <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.0.0.RELEASE" />
+      <element id="library" level="project" name="Maven: com.google.errorprone:error_prone_annotations:2.0.18" />
+      <element id="library" level="project" name="Maven: org.activiti:activiti-form-api:6.0.0" />
+      <element id="library" level="project" name="Maven: org.activiti:activiti-bpmn-converter:6.0.0" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.0.4.RELEASE" />
+      <element id="library" level="project" name="Maven: com.sun.mail:javax.mail:1.6.1" />
+      <element id="library" level="project" name="Maven: org.slf4j:jul-to-slf4j:1.7.25" />
+      <element id="library" level="project" name="Maven: de.odysseus.juel:juel-api:2.2.7" />
+      <element id="library" level="project" name="Maven: org.yaml:snakeyaml:1.19" />
+      <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter:2.0.0.RELEASE" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.9.4" />
+      <element id="library" level="project" name="Maven: de.odysseus.juel:juel-spi:2.2.7" />
+      <element id="library" level="project" name="Maven: org.springframework:spring-core:5.0.4.RELEASE" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.25" />
+      <element id="library" level="project" name="Maven: com.google.j2objc:j2objc-annotations:1.1" />
+      <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.9.4" />
+      <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot:2.0.0.RELEASE" />
+      <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-api:2.10.0" />
+      <element id="library" level="project" name="Maven: com.h2database:h2:1.3.176" />
+      <element id="library" level="project" name="Maven: org.activiti:activiti-engine:6.0.0" />
+      <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.7" />
+    </root>
+  </artifact>
+</component>
